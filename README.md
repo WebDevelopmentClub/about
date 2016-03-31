@@ -16,7 +16,7 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 
 ### Järgmine teema
 
-##### 04.01.16 
+##### 01.04.16 
 **Node http routes käsitlemine ja MongoDB**
 
 
