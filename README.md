@@ -4,8 +4,8 @@ Kokkusaamised toimuvad esialgu iga nädal 2016. aasta kevadsemestri lõpuni **es
 
 See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põhised koos [AngularJS](https://angularjs.org)'iga eesotsas:
 
-- Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond | [28.03.16](#####28.03.16)
-- Node http routes käsitlemine ja MongoDB | [01.04.16](#####01.04.16)
+- Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond | [28.03.16](#280316)
+- Node http routes käsitlemine ja MongoDB | [01.04.16](#010416)
 - AngularJS
 - Testid
 - Autentimine
