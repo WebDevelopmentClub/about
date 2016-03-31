@@ -13,10 +13,12 @@ See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põh
 - Gulp
 
 Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://github.com/WebDevelopmentClub/book/wiki).
+- [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup)
+- [MongoDB and handling requests](https://github.com/WebDevelopmentClub/book/wiki/MongoDB-and-handling-requests  )
 
 ### Järgmine teema
 
-##### 01.04.16 
+##### 01.04.16
 **Node http routes käsitlemine ja MongoDB**
 
 
@@ -26,9 +28,11 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 
 **Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond**
 
-video
+Video kahes osas [osa 1](https://www.youtube.com/watch?v=iswJW2vgrgA) ja [osa 2](https://www.youtube.com/watch?v=Gwajafor5Ws) 
 
-Kasutatud käsud leiad viki [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup) peatükis. Hea artikkel, mis seletab lahti, miks nginx on parem staatiliste failide servereerimiseks ([Supercharge your node.js applications with nginx](http://blog.modulus.io/supercharge-your-nodejs-applications-with-nginx)). nginx'iga saab edukalt faile cache'ida ([nginx caching guide](https://www.nginx.com/blog/nginx-caching-guide/)) ja ka koormust jaotada vajadusel ka mitme serveri vahel ([load balancer](https://www.nginx.com/resources/admin-guide/load-balancer/)). 
+- Kasutatud käsud leiad viki [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup) peatükis.
+- Hea artikkel, mis seletab lahti, miks nginx on parem staatiliste failide servereerimiseks ([Supercharge your node.js applications with nginx](http://blog.modulus.io/supercharge-your-nodejs-applications-with-nginx)).
+- nginx'iga saab edukalt faile cache'ida ([nginx caching guide](https://www.nginx.com/blog/nginx-caching-guide/)) ja ka koormust jaotada vajadusel ka mitme serveri vahel ([load balancer](https://www.nginx.com/resources/admin-guide/load-balancer/)).
 
 [DigitalOcean](https://www.digitalocean.com)'i õpetused, kui soovid need samad toimingud teha virtuaalserveris:
 - [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
