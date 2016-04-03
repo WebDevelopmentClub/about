@@ -21,6 +21,12 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 ##### 01.04.16
 **Node http routes käsitlemine ja MongoDB**
 
+- Node.js kasutavad rakendused [Projects, Applications, and Companies Using Node](https://github.com/nodejs/node-v0.x-archive/wiki/Projects,-Applications,-and-Companies-Using-Node/e3db15bfd6d74666fea86515dc0d20b6ba0c5ffb)
+- npm turvalisuse uuendus - [fixing a bearer token vulnerability](http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability)
+ - ExpressJS 4 tutvustus - [ExpressJS 4.0: New Features and Upgrading from 3.0](https://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0)
+- Mongo installimine [How to Install MongoDB on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-14-04) ja kuidas teha Mongo skaleeruvaks [How To Set Up a Scalable MongoDB Database](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-mongodb-database)
+- [Postman](http://www.getpostman.com/) - geniaalne tööriist päringutega mängimiseks
+- [RoboMongo](https://robomongo.org/) - mongoDB haldusliides kasutajaliidesega
 
 ### Arhiiv
 
