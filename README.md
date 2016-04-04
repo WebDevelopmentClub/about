@@ -1,6 +1,6 @@
 **WebDevelopmentClub** on eelkõige TLÜ Digitehnoloogiate instituudi üliõpilastele mõeldud õpitubade sari, mille raames on soovitatav tegeleda mõne enda isikliku projektiga. Kõik projektid ja teemad on teretulnud, eriti need mis olemasolevate ainete formaati ei mahu. Kuna paljud tundsid hetkel huvi Node.js õppimisest, siis see semester alustaks sellega ning vaatame, mida järgmine semester toob. Kindlasti üks hetk oleks hea käsitleda väiksemaid teemasid põhjalikumalt ja kaasata ka inimesi väljaspoolt.
 
-Kokkusaamised toimuvad esialgu iga nädal 2016. aasta kevadsemestri lõpuni **esmaspäeval 8:00 - 21:00 ruumis A-406**. Ajaliseelt on ligikaudu 3/5 osas uue teema käsitlemine ning 2/5 abistamine projektide või iseseisvate töödega. Hea kui on oma isiklik arvuti olemas, kuid saab kasutada ka kooli oma.
+Kokkusaamised toimuvad esialgu iga nädal 2016. aasta kevadsemestri lõpuni **esmaspäeval 18:00 - 21:00 ruumis A-406**. Ajaliseelt on ligikaudu 3/5 osas uue teema käsitlemine ning 2/5 abistamine projektide või iseseisvate töödega. Hea kui on oma isiklik arvuti olemas, kuid saab kasutada ka kooli oma.
 
 See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põhised koos [AngularJS](https://angularjs.org)'iga eesotsas:
 
