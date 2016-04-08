@@ -5,7 +5,7 @@ Kokkusaamised toimuvad esialgu iga nädal 2016. aasta kevadsemestri lõpuni **es
 See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põhised koos [AngularJS](https://angularjs.org)'iga eesotsas:
 
 - Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond | [28.03.16](#280316)
-- Node http routes käsitlemine ja MongoDB | [01.04.16](#010416)
+- Node http routes käsitlemine ja MongoDB | [04.04.16](#040416)
 - AngularJS
 - Testid
 - Autentimine
@@ -18,8 +18,17 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 
 ### Järgmine teema
 
-##### 01.04.16
+##### 11.04.16
+**AngularJS**
+
+
+
+### Arhiiv
+
+##### 04.04.16
 **Node http routes käsitlemine ja MongoDB**
+
+Video kahes osas [osa 1](https://youtu.be/D919e85bXeY) ja [osa 2](https://youtu.be/TXiav-JjUWA)
 
 - Node.js kasutavad rakendused [Projects, Applications, and Companies Using Node](https://github.com/nodejs/node-v0.x-archive/wiki/Projects,-Applications,-and-Companies-Using-Node/e3db15bfd6d74666fea86515dc0d20b6ba0c5ffb)
 - npm turvalisuse uuendus - [fixing a bearer token vulnerability](http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability)
@@ -28,13 +37,11 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 - [Postman](http://www.getpostman.com/) - geniaalne tööriist päringutega mängimiseks
 - [RoboMongo](https://robomongo.org/) - mongoDB haldusliides kasutajaliidesega
 
-### Arhiiv
-
 ##### 28.03.16
 
 **Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond**
 
-Video kahes osas [osa 1](https://www.youtube.com/watch?v=iswJW2vgrgA) ja [osa 2](https://www.youtube.com/watch?v=Gwajafor5Ws) 
+Video kahes osas [osa 1](https://www.youtube.com/watch?v=iswJW2vgrgA) ja [osa 2](https://www.youtube.com/watch?v=Gwajafor5Ws)
 
 - Kasutatud käsud leiad viki [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup) peatükis.
 - Hea artikkel, mis seletab lahti, miks nginx on parem staatiliste failide servereerimiseks ([Supercharge your node.js applications with nginx](http://blog.modulus.io/supercharge-your-nodejs-applications-with-nginx)).
