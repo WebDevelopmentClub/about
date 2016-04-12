@@ -6,7 +6,7 @@ See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põh
 
 - Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond | [28.03.16](#280316)
 - Node http routes käsitlemine ja MongoDB | [04.04.16](#040416)
-- AngularJS
+- Bower ja Angular | [11.04.16](#110416)
 - Testid
 - Autentimine
 - Socket.io
@@ -18,12 +18,15 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 
 ### Järgmine teema
 
-##### 11.04.16
-**AngularJS**
-
-
+##### 18.04.16
+**Testid**
 
 ### Arhiiv
+
+##### 11.04.16
+**Bower ja Angular**
+
+Video kahes osas [osa 1](https://youtu.be/LSwfmKv_8O0) ja [osa 2](https://youtu.be/dxeri5dvG-M)
 
 ##### 04.04.16
 **Node http routes käsitlemine ja MongoDB**
