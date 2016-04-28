@@ -6,10 +6,10 @@ See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põh
 
 - Linux Ubuntu Server, Node.js, nginx, git paigaldamine, arenduskeskkond | [28.03.16](#280316)
 - Node http routes käsitlemine ja MongoDB | [04.04.16](#040416)
-- AngularJS
-- Testid
-- Autentimine
-- Socket.io
+- Bower ja Angular Material | [11.04.16](#110416)
+- Mocha, Karma ja Protractor testid | [18.04.16](#180416)
+- Autentimine kasutades JSON Web Token'eid | [25.04.16](#250416)
+- Socket.io | [02.05.16](#020516)
 - Gulp
 
 Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://github.com/WebDevelopmentClub/book/wiki).
@@ -18,12 +18,30 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 
 ### Järgmine teema
 
-##### 11.04.16
-**AngularJS**
-
-
+##### 02.05.16
+**Socket.io**
 
 ### Arhiiv
+
+##### 25.04.16
+**Autentimine kasutades JSON Web Token'eid**
+
+[Video](https://youtu.be/SGnJ1ppjeTE)
+
+##### 18.04.16
+**Mocha, Karma ja Protractor testid**
+
+Video kahes osas [osa 1](https://youtu.be/oaczigsgKrc) ja [osa 2](https://youtu.be/pPYmQ1U6nIU)
+
+Põnevat juurdevaatamist [Writing unit tests for personal projects?](https://www.youtube.com/watch?v=ib2Pt9_zciA)
+
+##### 11.04.16
+**Bower ja Angular Material**
+
+Video kahes osas [osa 1](https://youtu.be/LSwfmKv_8O0) ja [osa 2](https://youtu.be/dxeri5dvG-M)
+
+Postman'i kasutamine testide tegemiseks - [Testing examples](https://www.getpostman.com/docs/testing_examples).
+- Promise'i kasutamine AngularJS'iga - [AngularJS Promises - The Definitive Guide](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/).
 
 ##### 04.04.16
 **Node http routes käsitlemine ja MongoDB**
