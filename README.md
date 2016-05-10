@@ -10,18 +10,21 @@ See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põh
 - Mocha, Karma ja Protractor testid | [18.04.16](#180416)
 - Autentimine kasutades JSON Web Token'eid | [25.04.16](#250416)
 - Socket.io | [02.05.16](#020516)
-- Running in production (Gulp, pm2 ...) | (#090516)
+- Deploying Node app | (#090516)
 
 Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://github.com/WebDevelopmentClub/book/wiki).
 - [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup)
-- [MongoDB and handling requests](https://github.com/WebDevelopmentClub/book/wiki/MongoDB-and-handling-requests  )
-
-### Järgmine teema
-
-##### 09.05.16
-**Running in production**
+- [MongoDB and handling requests](https://github.com/WebDevelopmentClub/book/wiki/MongoDB-and-handling-requests)
+- [Bower and Angular Material](https://github.com/WebDevelopmentClub/book/wiki/Bower-and-Angular-Material)
+- [Mocha, Karma and Protractor tests](https://github.com/WebDevelopmentClub/book/wiki/Mocha%2C-Karma-and-Protractor-tests)
+- [Authentication using JSON Web Tokens](https://github.com/WebDevelopmentClub/book/wiki/Authentication-using-JSON-Web-Tokens)
+- [Socket.io](https://github.com/WebDevelopmentClub/book/wiki/Socket.io)
+- [Deploying Node app](https://github.com/WebDevelopmentClub/book/wiki/Deploying-Node-app)
 
 ### Arhiiv
+
+##### 09.05.16
+**Deploying Node app**
 
 ##### 02.05.16
 **Socket.io**
