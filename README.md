@@ -26,6 +26,8 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 ##### 09.05.16
 **Deploying Node app**
 
+- Add mongo backup [Regular Mongo Backups Using Cron](https://sheharyar.me/blog/regular-mongo-backups-using-cron/)
+
 ##### 02.05.16
 **Socket.io**
 
