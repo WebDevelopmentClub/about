@@ -10,7 +10,7 @@ See semester käsitletavad teemad oleksid [Node.js](https://nodejs.org/en/) põh
 - Mocha, Karma ja Protractor testid | [18.04.16](#180416)
 - Autentimine kasutades JSON Web Token'eid | [25.04.16](#250416)
 - Socket.io | [02.05.16](#020516)
-- Deploying Node app | (#090516)
+- Deploying Node app | [09.05.16](#090516)
 
 Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://github.com/WebDevelopmentClub/book/wiki).
 - [Setup](https://github.com/WebDevelopmentClub/book/wiki/Setup)
