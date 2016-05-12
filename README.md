@@ -26,12 +26,12 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 ##### 09.05.16
 **Deploying Node app**
 
+[Video](https://youtu.be/oHcauI_5iKk)
+
 - Add mongo backup [Regular Mongo Backups Using Cron](https://sheharyar.me/blog/regular-mongo-backups-using-cron/)
 
 ##### 02.05.16
 **Socket.io**
-
-[Video](https://youtu.be/3_4Kyj8-wdk)
 
 ##### 25.04.16
 **Autentimine kasutades JSON Web Token'eid**
