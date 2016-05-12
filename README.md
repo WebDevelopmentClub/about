@@ -33,6 +33,8 @@ Kõik olulisemad teemad ja käsud on koondatud kokku vikisse [**book**](https://
 ##### 02.05.16
 **Socket.io**
 
+[Video](https://youtu.be/3_4Kyj8-wdk)
+
 ##### 25.04.16
 **Autentimine kasutades JSON Web Token'eid**
 
